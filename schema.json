@@ -2,6 +2,9 @@
     "$schema": "https://json-schema.org/draft-04/schema#",
     "type": "object",
     "properties": {
+        "$schema": {
+            "type": "string",
+        },
         "words": {
             "type": "array",
             "items": {
