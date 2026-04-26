@@ -3,7 +3,7 @@
     "type": "object",
     "properties": {
         "$schema": {
-            "type": "string",
+            "type": "string"
         },
         "words": {
             "type": "array",
